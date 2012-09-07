@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[
+
+\$.ajax({
+
+    type: "GET",
+    url: "",
+    dataType: "",
+    success: function (data) {
+
+    },
+    failure: function (data) {
+        console.log("oh crap");
+    }
+});
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>jqajx</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>
