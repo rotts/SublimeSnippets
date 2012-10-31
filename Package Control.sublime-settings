@@ -1,12 +1,19 @@
 {
-	"auto_upgrade_last_run": 1347028723,
+	"auto_upgrade_last_run": 1351692753,
 	"installed_packages":
 	[
 		"ColdFusion",
+		"jQuery",
+		"jQuery Mobile Snippets",
+		"jQuery Snippets pack",
+		"JSLint",
+		"nodejsLauncher",
 		"Package Control",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeTODO",
-		"Theme - Soda"
+		"Theme - Soda",
+		"Todo",
+		"Todo Manager"
 	]
 }
